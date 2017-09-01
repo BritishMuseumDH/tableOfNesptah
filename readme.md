@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/74709030.svg)](https://zenodo.org/badge/latestdoi/74709030)
+
 # Model of the offering table of Nesptah
 
 This folder contains images, masks and files to recreate a 3D model of the offering table of Nesptah found in the Egyptian Sculpture gallery @britishmuseum.
